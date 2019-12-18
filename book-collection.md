@@ -2,8 +2,7 @@
 
 | Title                                                            | Genre | \$            | Acquired | Read |
 | ---------------------------------------------------------------- | ----- | ------------- | -------- | ---- |
-| Clean Architecture (Martin)                                      | CS    | \$42.85       | Dec 2018 |
-| Pattern Recognition and Machine Learning (Bishop)                | ML    | \$118.26      | Dec 2018 |
+| Discrete Mathematics and Its Applications (Rosen)                | Math  | \$12          | Dec 2019 |
 | Types and Programming Languages (Pierce)                         | CS    | \$98.03       | Apr 2019 |
 | Parallel and Concurrent Programming in Haskell (Marlow)          | CS    | \$41.71       | Apr 2019 |
 | Building Microservices (Newman)                                  | CS    | \$45.66       | Apr 2019 | ✔️   |
@@ -17,3 +16,5 @@
 | Operations Research: Applications and Algorithms (Winston)       | Math  | \$19.95 (USD) | Apr 2019 |
 | Applied Combinatorics (Tucker)                                   | Math  | \$14.98 (USD) | Apr 2019 |
 | Graph Theory: Modeling, Applications, and Algorithms (Agnarsson) | Math  | \$6           | Apr 2019 |
+| Clean Architecture (Martin)                                      | CS    | \$42.85       | Dec 2018 |
+| Pattern Recognition and Machine Learning (Bishop)                | ML    | \$118.26      | Dec 2018 |
